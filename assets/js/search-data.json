@@ -62,104 +62,118 @@
     
     "relUrl": "/apply/mentor"
   },"9": {
+    "doc": "Speakers",
+    "title": "Speakers",
+    "content": " ",
+    "url": "/apply/speaker",
+    
+    "relUrl": "/apply/speaker"
+  },"10": {
     "doc": "Sponsors",
     "title": "Sponsors",
     "content": " ",
     "url": "/apply/sponsor",
     
     "relUrl": "/apply/sponsor"
-  },"10": {
+  },"11": {
     "doc": "Volunteers",
     "title": "Volunteers",
     "content": " ",
     "url": "/apply/volunteer",
     
     "relUrl": "/apply/volunteer"
-  },"11": {
+  },"12": {
     "doc": "Apply",
     "title": "Applications are open for:",
-    "content": ". | Hackers | Mentors | Judges | Attendants | Volunteers | Sponsors | . Attendance is free for hackers, mentors, judges and volunteers. ",
+    "content": ". | Hackers | Mentors | Judges | Attendants | Volunteers | Speaker | Sponsors | . Attendance is free for hackers, mentors, judges, speakers and volunteers. ",
     "url": "/apply#applications-are-open-for",
     
     "relUrl": "/apply#applications-are-open-for"
-  },"12": {
+  },"13": {
     "doc": "Apply",
     "title": "Apply",
     "content": " ",
     "url": "/apply",
     
     "relUrl": "/apply"
-  },"13": {
+  },"14": {
     "doc": "Contact",
     "title": "Our communication channels:",
     "content": ". | Telegram . | Twitter . | Email . | Email updates . | . ",
     "url": "/contact/#our-communication-channels",
     
     "relUrl": "/contact/#our-communication-channels"
-  },"14": {
+  },"15": {
     "doc": "Contact",
     "title": "Contact",
     "content": " ",
     "url": "/contact/",
     
     "relUrl": "/contact/"
-  },"15": {
+  },"16": {
     "doc": "Sponsors",
     "title": "Sponsors",
     "content": "Sponsors . | | . Become a Sponsor    . ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
-  },"16": {
+  },"17": {
     "doc": "Thank you!",
     "title": "Thank you!",
     "content": ". Thank you! We will reach out by email soon! Tickets will be released in batches. Meanwhile please join our community to stay in the loop. You are also welcome to get involved :) . ",
     "url": "/apply/attendant/thank-you-attendant",
     
     "relUrl": "/apply/attendant/thank-you-attendant"
-  },"17": {
+  },"18": {
     "doc": "Thank you hacker!",
     "title": "Thank you hacker!",
     "content": ". Thanks for applying! We will reach out by email in the coming weeks! . Meanwhile please join our community to stay in the loop. You are also welcome to get involved :) . ",
     "url": "/apply/hacker/thank-you-hacker",
     
     "relUrl": "/apply/hacker/thank-you-hacker"
-  },"18": {
+  },"19": {
     "doc": "Thank you sensei!",
     "title": "Thank you sensei!",
     "content": ". Thank you Sensei! We will reach out by email in the coming weeks! . Meanwhile please join our community to stay in the loop. You are also welcome to get involved :) . ",
     "url": "/apply/judge/thank-you-judge",
     
     "relUrl": "/apply/judge/thank-you-judge"
-  },"19": {
+  },"20": {
     "doc": "Thank you sensei!",
     "title": "Thank you sensei!",
     "content": ". Thank you Sensei! We will reach out by email in the coming weeks! . Meanwhile please join our community to stay in the loop. You are also welcome to get involved :) . ",
     "url": "/apply/mentor/thank-you-mentor",
     
     "relUrl": "/apply/mentor/thank-you-mentor"
-  },"20": {
+  },"21": {
+    "doc": "Thank you!",
+    "title": "Thank you!",
+    "content": ". Thank you! We will reach out by email soon! . Meanwhile please join our community to stay in the loop. You are also welcome to get involved as well :) . ",
+    "url": "/apply/mentor/thank-you-speaker",
+    
+    "relUrl": "/apply/mentor/thank-you-speaker"
+  },"22": {
     "doc": "Thank you!",
     "title": "Thank you!",
     "content": ". Thank you! We will reach out by email soon! . Meanwhile please join our community to stay in the loop. You are also welcome to get involved :) . ",
     "url": "/apply/sponsor/thank-you-sponsor",
     
     "relUrl": "/apply/sponsor/thank-you-sponsor"
-  },"21": {
+  },"23": {
     "doc": "Thank you!",
     "title": "Thank you!",
     "content": ". Thank you! We will reach out by email soon! . Meanwhile please join our community to stay in the loop :) . ",
     "url": "/apply/volunteer/thank-you-volunteer",
     
     "relUrl": "/apply/volunteer/thank-you-volunteer"
-  },"22": {
+  },"24": {
     "doc": "Tickets",
     "title": "Tickets",
     "content": ". | Tickets will be out soon and announced through our communication channels. | Free tickets will be given to: hackers, mentors, speakers, judges, and volunteers. | . ",
     "url": "/tickets/",
     
     "relUrl": "/tickets/"
-  },"23": {
+  },"25": {
     "doc": "Venue",
     "title": "Venue",
     "content": "  Le Grand Quai, Old Montréal . | | . | | | | . ",
